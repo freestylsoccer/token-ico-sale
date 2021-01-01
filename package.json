@@ -1,0 +1,23 @@
+{
+    "name": "real-estate-token",
+    "version": "1.0.0",
+    "description": "Real Estate Token Sale ICO",
+    "main": "truffle-config.js",
+    "directories": {
+        "test": "test"
+    },
+    "author": {
+        "name": "basilio Calixto",
+        "email": "freestylsoccer@gmail.com"
+    },
+    "scripts": {
+        "dev": "lite-server"
+    },
+    "license": "ISC",
+    "devDependencies": {
+        "lite-server": "^2.6.1"
+    },
+    "dependencies": {
+        "@truffle/hdwallet-provider": "^1.2.1"
+    }
+}
